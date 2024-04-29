@@ -1,36 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS ticketing app with CRUD functionality
+Key Tech used: NextJs, TypeScript, Prisma, NextAuth, MySQL, Tailwindcss
 
-## Getting Started
+![WebImage1](https://github.com/Alexandervanderleek/NextJSTicketingWebsite/assets/76222613/81a935f9-1a4f-4f6f-a151-fffaf5a01588)
 
-First, run the development server:
+![WebImage2](https://github.com/Alexandervanderleek/NextJSTicketingWebsite/assets/76222613/15fffb7d-54ec-4ecd-a87f-5bfbb64b8898)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![WebImage3](https://github.com/Alexandervanderleek/NextJSTicketingWebsite/assets/76222613/4d72c7c0-13a4-4120-803b-1990701df782)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![WebImage4](https://github.com/Alexandervanderleek/NextJSTicketingWebsite/assets/76222613/c6033866-da20-4b31-b3a8-be2d3fa668e6)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![WebImage5](https://github.com/Alexandervanderleek/NextJSTicketingWebsite/assets/76222613/a1a9096c-2988-4399-84d2-0fe12ff1d15c)
